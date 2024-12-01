@@ -21,7 +21,7 @@ sound.Volume = 1
 sound.Looped = false
 sound:Play()
 
-local imageIDs = { "rbxassetid://117147401866447" }
+local imageIDs = { "rbxassetid://104764966647835" }
 local credits = { "by flx" }
 local loadTimeMessage = "niggasense" .. string.format("%.20f", elapsedTime) .. " SECONDS"
 
